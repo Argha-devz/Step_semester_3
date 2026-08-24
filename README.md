@@ -1,13 +1,36 @@
-# Step_semester_3
-## Date: 24-08-2026
+# Step Semester 3 - Course Progress
 
-**Today's Work:**
-- Initialized the repository structure following the branching guidelines.
-- Completed Session 1 String class and assignment problems.
+## Student Information
+- **Name:** Argha Banerjee
+- **Registration Number:** RA2511003011874
+- **Program:** B.Tech Computer Science and Engineering Core
 
-**Next Session Plan:**
-- Move on to the next topic and create the Session 2 feature branch.
+---
 
-**Issues Faced:**
-- None
-- 
+## Progress Log
+
+### Session 3: Control Flow & Conditionals
+- **Date:** 24-08-2026
+- **Branch:** `feature/session_3`
+- **Completed Work:**
+    - Initialized `feature/session_3` branch from develop.
+    - Implemented Category C Assignment problems under `control_flow/assigment_problems`:
+        - `VotingChecker.java` (Boolean expressions and if/else)
+        - `NumberClassifier.java` (Three-way decision ladder)
+        - `NumberPrinter.java` (For loops and iteration counters)
+        - `NaturalSum.java` (While loops and accumulator variables)
+        - `DayNamePrinter.java` (Switch statements, cases, and default validation)
+
+### Session 2: Advanced Strings & Applications
+- **Date:** 2026-03
+- **Branch:** `feature/session_2`
+- **Completed Work:**
+    - Built out advanced string and application logic scripts.
+    - Successfully managed feature branch workflows and remote pushes.
+
+### Session 1: Basic Strings & Fundamentals
+- **Date:** 2026-03
+- **Branch:** `feature/session_1`
+- **Completed Work:**
+    - Initialized repository architecture and project skeleton.
+    - Completed initial string manipulation class files and assignment solutions under `string/assigment_problems`.
