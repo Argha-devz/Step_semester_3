@@ -25,8 +25,9 @@
 - **Date:** 2026-03
 - **Branch:** `feature/session_2`
 - **Completed Work:**
-    - Built out advanced string and application logic scripts.
     - Successfully managed feature branch workflows and remote pushes.
+    - Built out advanced string and application logic scripts under `string_advanced/assigment_problems`
+    - Implemented Session 2 practice problems under `string_advanced/class_problems`.
 
 ### Session 1: Basic Strings & Fundamentals
 - **Date:** 2026-03
@@ -34,3 +35,5 @@
 - **Completed Work:**
     - Initialized repository architecture and project skeleton.
     - Completed initial string manipulation class files and assignment solutions under `string/assigment_problems`.
+    - Implemented Session 1 practice problems under `string/class_problems`. 
+  
