@@ -23,6 +23,13 @@
         - `SeatingGridOptimizer.java` (Private helper method for jagged 2D array row averaging and zone classification)
         - `PlacementEngine.java` (Method overloading, `Comparable` implementation, encapsulation, and `Arrays.sort()` ranking)
 
+     - Implemented Category C Assignment problems under `session5/assignment_problems`:
+       - `FantasyScoreMultiplier.java` (Direct array score updating via reference for captains and vice-captains)
+       - `DuplicatePlayerChecker.java` (Nested loop pairwise comparison for roster verification)
+       - `TopPerformerTracker.java` (Single-pass tracking of min, max, and spread without sorting)
+       - `MatchDayGridAnalyzer.java` (Private row-averaging helper method for jagged 2D grid categorization)
+       - `AutoDraftEngine.java` (Overloaded draft rules, Comparable interface implementation, and standard library sorting)
+
 ### Session 4: Arrays, Loops, and Conditionals
 - **Date:** 29-08-2026
 - **Branch:** `feature/session_4`
