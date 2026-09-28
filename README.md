@@ -9,6 +9,70 @@
 
 ## Progress Log
 
+### Session 8: Inheritance and Polymorphism
+
+- **Date:** 29-08-2026
+- **Branch:** `feature/session_8`
+- **Completed Work:**
+
+    - Initialized `feature/session_8` branch from develop.
+  
+    - Implemented Category C Practice problems under `session8/class_problems` :
+        - `Payment.java` (Abstract base class and polymorphic subclasses for transaction fee calculations)
+        - `LibraryItem.java` (Dynamic dispatch and due date calculations across different library media types)
+        - `Delivery.java` (Polymorphic delivery fee calculation factoring weight, distance, and custom charges)
+        - `Question.java` (Inheritance-based examination grading logic supporting MCQs, T/F, and keyword-matched essays)
+        - `TransportJourney.java` (Distance and peak-hour rate modeling for public transit fare computation)
+
+    - Implemented Category C Assignment problems under `session8/assignment_problems` :
+        - `CustomerBill.java` (Polymorphic billing counter managing discounts and service charges for diverse customers)
+        - `ParkingVehicle.java` (Vehicle-specific parking fee and hourly rate calculations using runtime method dispatch)
+        - `HostelRoom.java` (Electricity consumption billing with shared occupant division and fixed charges)
+        - `EmployeeBonus.java` (Polymorphic bonus computation handling full-time, part-time, and intern staff structures)
+        - `StreamingPlan.java` (Subscription validity extension and renewal date calculations using `LocalDate`)
+
+### Session 7: Encapsulation and Access Control
+- **Date:** 29-08-2026
+- **Branch:** `feature/session_7`
+- **Completed Work:**
+- 
+    - Initialized `feature/session_7` branch from develop.
+  
+    - Implemented Category C Practice problems under `session7/class_problems` :
+        - `PiggyBank.java` (Private savings encapsulation with deposit rules and final ID protection)
+        - `Scorecard.java` (Private boolean result array tracking with secure score exposure)
+        - `NameTag.java` (Immutable name splitting and storage for automated nickname generation)
+        - `Locker.java` (Write-only combination security requiring current code verification for updates)
+        - `AttendanceSheet.java` (Duplicate-safe name collection with internal search and count logic)
+
+    - Implemented Category C Assignment problems under `session7/assignment_problems` :
+        - `Character.java` (Private health state management with boundary clamping and final maximum limits)
+        - `Playlist.java` (Defensive array copying for song titles to prevent external list tampering)
+        - `PasswordChecker.java` (Private password encapsulation with length-based strength rating evaluation)
+        - `TrafficLight.java` (State-restricted forward color cycling with immutable ID assignment)
+        - `Cart.java` (Private item price array with on-demand total calculation and item count tracking)
+
+### Session 6: Classes and Objects Revision
+- **Date:** 13-09-2026
+- **Branch:** `feature/session_6`
+- **Completed Work:**
+
+    - Initialized `feature/session_6` branch from develop.
+  
+    - Implemented Category C Practice problems under `session6/class_problems` :
+        - `PlacementRecord.java` (OOP object mapping for student placements replacing parallel arrays)
+        - `MessWallet.java` (Private balance encapsulation, negative validation, and withdrawal checking)
+        - `Course.java` (Constructor chaining via `this(...)` supporting theory and lab course configurations)
+        - `IdCard.java` (Reference equality verification using the `==` operator and object aliasing)
+        - `Student.java` (Static field sharing for college name and constructor-based student count tracking)
+
+    - Implemented Category C Assignment problems under `session6/assignment_problems` :
+        - `BookInventory.java` (Object-oriented book inventory tracking replacing parallel arrays)
+        - `PayrollAccount.java` (Encapsulated basic salary and bonus fields with validation and tax deduction logic)
+        - `Employee.java` (Constructor chaining via `this(...)` to handle both permanent staff and interns)
+        - `HallTicket.java` (Exam hall ticket object aliasing and reference identity verification using `==`)
+        - `CompanyEmployee.java` (Static shared company name and instance tracking counter incrementing via constructor)
+
 ### Session 5: Arrays, Methods, and Object-Oriented Fundamentals
 - **Date:** 29-08-2026
 - **Branch:** `feature/session_5`
