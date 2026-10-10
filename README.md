@@ -9,6 +9,26 @@
 
 ## Progress Log
 
+### Session 10: Data Structures and Core Java Practice (Category C Coding Assignments)
+- 
+- **Date:** 10-10-2026
+- **Branch:** `feature/session_10`
+- **Completed Work:**
+
+    - Initialized `feature/session_9` branch from develop.
+
+    - Implemented Part A Data Structure Coding Problems under `session10/class_problems`
+        - `VowelAndConsonantCounter.java` (Vowel and consonant character frequency counter)
+        - `WordReverserAndPalindromeChecker.java` (StringBuilder word reversal and palindrome validation)
+        - `EvenAndOddNumbers.java` (Even and odd integer frequency counter from a list)
+        - `InPlaceArrayReversal.java` (In-place token array/list reversal utilizing two pointers)
+        - `DigitSumAndNumberReversal.java` (Integer digit sum calculation and number reversal via math operations)
+        - `PrimeNumberChecker.java` (Primality test utilizing square-root range iteration)
+        - `FactorialCalculation.java` (Non-negative integer factorial calculator)
+        - `StudentGradeAssignment.java` (Mark-to-grade evaluation ladder)
+        - `LeapYearDetector.java` (Leap year logic with divisible-by rules)
+        - `StudentResultCardGenerator.java` (Student result card system processing name capitalization, mark averages, and grade assignment)
+
 ### Session 9: Abstraction, Interfaces, and Class vs Interface (Category C Coding Assignments)
 
 - **Date:** 10-10-2026
