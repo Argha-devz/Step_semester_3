@@ -9,9 +9,31 @@
 
 ## Progress Log
 
+### Session 9: Abstraction, Interfaces, and Class vs Interface (Category C Coding Assignments)
+
+- **Date:** 10-10-2026
+- **Branch:** `feature/session_9`
+- **Completed Work:**
+
+    - Initialized `feature/session_9` branch from develop.
+
+    - Implemented Category C Practice problems under `session9/class_problems`
+        - `GardenPlotAreaReport.java` (Community garden area calculation using abstract base plot class)
+        - `WeeklyStaffPay.java` (Weekly staff payroll with full-time, hourly with overtime, and intern pay rules)
+        - `LibraryLateFineCounter.java` (Library late fine system for books, DVDs, and magazines)
+        - `ElectricityConnectionBilling.java` (Monthly electricity billing for homes, shops, and factories)
+        - `TravelBooking.java` (Travel website fare calculator with shared booking fee and mode-specific calculations)
+
+    - Implemented Category C Assignment problems under `session9/assignment_problems` z
+        - `MovieTicketCounter.java` (Movie ticket booking system with seat types and shared convenience fee)
+        - `ParcelShippingDesk.java` (Courier parcel shipping with modular charges and optional insurance interface)
+        - `CollegeFeeCounter.java` (College fee calculation with tuition rules and transport fee interface)
+        - `CityCabFareMeter.java` (Cab fare calculation with minimum fare, base rates, and night service interface)
+        - `HomeApplianceEnergyReport.java` (Appliance energy consumption and saver mode calculations using abstract classes and interfaces)
+
 ### Session 8: Inheritance and Polymorphism
 
-- **Date:** 29-08-2026
+- **Date:** 29-09-2026
 - **Branch:** `feature/session_8`
 - **Completed Work:**
 
@@ -24,7 +46,7 @@
         - `Question.java` (Inheritance-based examination grading logic supporting MCQs, T/F, and keyword-matched essays)
         - `TransportJourney.java` (Distance and peak-hour rate modeling for public transit fare computation)
 
-    - Implemented Category C Assignment problems under `session8/assignment_problems` :
+    - Implemented Category C Assignment problems under `session8/assignment_problems` z
         - `CustomerBill.java` (Polymorphic billing counter managing discounts and service charges for diverse customers)
         - `ParkingVehicle.java` (Vehicle-specific parking fee and hourly rate calculations using runtime method dispatch)
         - `HostelRoom.java` (Electricity consumption billing with shared occupant division and fixed charges)
@@ -32,7 +54,7 @@
         - `StreamingPlan.java` (Subscription validity extension and renewal date calculations using `LocalDate`)
 
 ### Session 7: Encapsulation and Access Control
-- **Date:** 29-08-2026
+- **Date:** 29-09-2026
 - **Branch:** `feature/session_7`
 - **Completed Work:**
 - 
